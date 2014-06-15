@@ -1,0 +1,14 @@
+name: BuySell
+main: com.yahoo.smsunarto.BuySell
+version: 1.0
+
+commands:
+   buy:
+      description: Set Personal Message
+      usage: /buy <item> <price>
+   sell:
+      description: Set Personal Message
+      usage: /sell <item> <price>
+   buysellhelp:
+      description: none
+      usage: /buysellhelp
